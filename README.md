@@ -1,1 +1,1 @@
-# IC-2k26-05-C-Language-Akshita-Sharma
+# 05-C-Programming-Akshita-Sharma
