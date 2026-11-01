@@ -1,2 +1,2 @@
 #C PROGRMMING LAB
-## chapter 4 : loop 
+## chapter 3 : operators and data type ,variable constant and there declaration
